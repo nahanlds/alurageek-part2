@@ -16,7 +16,7 @@ export default function Login() {
         </ul>
 
         <Button>
-            <Link href="/login">Login</Link>
+            <Link href="#">Login</Link>
         </Button>
       </div>
     );

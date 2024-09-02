@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Search } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import logoAluraGeek from "/public/Logo.svg"
+
 export default function Hearder() {
     return (
         <header className="py-4 px-4 flex justify-between items-center">
